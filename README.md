@@ -16,6 +16,8 @@
 
 O efeito de transição sobrepõe o formulário que se altera imperceptivelmente para adequar-se ao novo contexto (de Login para Create Account e vice-versa). O background se mantém estático durante as transições, a verdadeira fluidez desta interface se encontra no efeito elástico do componente que exibe o background ao se deslizar de uma extremidade para outra e nas sutis alterações de textos.
 
+<a href="https://signin-up-web-animation.netlify.app/" target="_blank">Acessar site</a>
+
 <img width="100%" src="./src/assets/sign.gif">
 
 ### Iniciando o projeto
